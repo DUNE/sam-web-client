@@ -1,3 +1,7 @@
 *.pyc
 python/samweb_client/_version.py
 dist.tar.gz
+*~
+*.pyc
+dist
+MANIFEST
